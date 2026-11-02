@@ -1,0 +1,12 @@
+﻿partida,componente,cantidad_preliminar,unidad,precio_unitario_catalogo_MXN,importe_referencia_MXN,registro_precio,comparabilidad,observaciones
+K520-01,"Cuerpo cilíndrico SA-240 316L, espesor candidato 8 mm",12,placas,,,,NO_COMPARABLE,Solo hay precios publicados de 6.35 y 4.76 mm; queda pendiente precio exacto 8 mm
+K520-02,"Cabezales elipsoidales 2:1, 316L",2,piezas,,,,SIN_PRECIO,"Requiere conformado, geometría final y cotización"
+K520-03,Platos perforados para la geometría seleccionada,8,piezas,,,,SIN_PRECIO,No se sustituye por plato genérico sin dimensiones
+K520-04,"Bridas WN RF inoxidable 316, NPS 2 Class 150",2,piezas,1099.00,2198.00,WEB-016,REFERENCIA_CONDICIONADA,Pendiente cotejo con material SA-182 y bore/Schedule final
+K520-05,Tubería 316L NPS 2 Sch40 para cuellos de boquillas,1,tramo 6.10 m,12360.60,12360.60,WEB-028,REFERENCIA_CONDICIONADA,Cantidad de compra ejemplo; verificar requerimiento real de cuello y tipo soldado/sin costura
+K520-06,Brida WN RF NPS 12 Class 150 316L,1,pieza,,,,SIN_PRECIO_MXN_VERIFICADO,Hay referencia internacional USD no cotización total en México
+K520-07,Tubería NPS 12 Sch40S para cuello superior,1,cuello,,,,SIN_PRECIO,Falta longitud y proveedor
+K520-08,Juntas NPS 2 y 12,3,piezas,,,,SIN_PRECIO_EQUIVALENTE,No se dispone de ficha equivalente para ambas medidas
+K520-09,Espárragos y tuercas de las tres uniones,20,juegos,,,,SIN_PRECIO,Especificación/longitud de espárragos pendiente
+K520-10,"Falda, anillo base, accesos y fijaciones",1,lote,,,,SIN_PRECIO,Geometría final no definida
+K520-11,"Fabricación, rolado, soldadura, pruebas e inspección",1,servicio,,,,SIN_PRECIO,No existe precio de catálogo de alcance equivalente

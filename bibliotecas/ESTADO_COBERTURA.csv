@@ -1,0 +1,25 @@
+﻿biblioteca,registros,cobertura,fuente_principal,restriccion_para_calculo
+01_materiales.csv,8,PARCIAL,ASME II-A/II-D 2019,Solo materiales y formas seleccionadas
+02_esfuerzos_admisibles.csv,262,PARCIAL VERIFICADO,ASME II-D 2019 Table 1A,Revisar notas y elegir fila explícita
+03_propiedades_fisicas.csv,88,PARCIAL VERIFICADO,"ASME II-D 2019 Tables TM-1, PRD","Grupos 300/G, no colada certificada"
+04_tuberias_b36_19m.csv,93,TABLA 1 B36.19M-2004,ASME B36.19M-2004 (R2015),Edición 2004; no sustituye espesor mínimo UG-45 ni verificación de tolerancias; cotejar edición 2022 para aplicación actual
+05_materiales_bridas.csv,3,PARCIAL VERIFICADO,ASME B16.5 2025 Table 1.1-1,Solo grupo 2.3
+06_ratings_bridas.csv,91,GRUPO 2.3,ASME B16.5 2025 Table 2-2.3,Notas y temperatura >=38 C
+07_dimensiones_bridas.csv,21,CLASS 150 WN,"ASME B16.5 2025 Tables 7, 8",Sin otras Class ni bore para Schedule
+08_ug45_minimos.csv,18,TABLA UG45,ASME VIII-1 2021,No sustituyen cálculo completo UG-45
+09_criterios_hidraulicos.csv,14,REQUISITOS SIN COEFICIENTES,Apunte torre 2026 / GPSA 12th 2004 sec.19,La figura GPSA requiere espaciamiento y tensión superficial; no hay C universal ni reemplaza validación hidráulica de platos.
+10_presion_externa.csv,8,REFERENCIAS SIN FACTORES,ASME VIII-1/II-D,"A/B se deben leer para D/t, L/D y temperatura reales"
+11_correlaciones_turton.csv,3,COEFICIENTES VERIFICADOS,"Turton 4a ed. 2012, Apéndice A Table A.1","Rangos obligatorios; FM, Fq y FBM no se asignan de manera automática"
+12_cotizaciones.csv,0,SIN COTIZACIONES,Proveedor/fecha no aportados,No hay precios válidos para cotizar
+13_indices_cepci.csv,13,HISTÓRICO; 2026 SIN VALOR VERIFICADO,Chemical Engineering (2026-10-26),"Agosto 2026 preliminar, julio 2026 final; cifras de 2026 no disponibles públicamente; no extrapolar"
+14_entradas_diseno.csv,0,VACIO INTENCIONAL,Usuario o DWSIM,Se introducen por simulación/captura
+15_formulas_diseno.csv,28,INDICE DOCENTE,Apunte de torre 2026,Confirmar condiciones normativas antes de aprobar
+16_proveedores.csv,12,DIRECTORIO 12 PROVEEDORES; COSTOS POR COTIZAR,Sitios oficiales y registro local,Requiere cotización técnica y comercial por escrito
+17_factores_turton.csv,7,ECUACIONES Y FACTORES BÁSICOS,Turton 4a ed. 2012 Appendix A,Los factores de lectura gráfica quedan sin valores numéricos
+18_precios_publicados.csv,39,PARCIAL - productos de catalogo,Grainger México y Marinos del Golfo 2026-11-01,"Precios en MXN con IVA, sujetos a cambio, algunos agotados"
+19_parametros_comerciales.csv,48,FICHAS DE PRODUCTO; NO ASME,Sitios de proveedores 2026-11-01,"Cotejar especificación, certificado y ausencia de contradicciones"
+20_precios_internacionales_y_referencias.csv,7,PARCIAL - USD / referencias obra,Consultas web 2026-11-01,no equivalen a precios de torre certificada
+21_matriz_partidas_y_cotizacion.csv,22,MATRIZ COMPLETA - sin costos finales,Consultas web 2026-11-01,no equivalen a precios de torre certificada
+22_fuentes_y_solicitudes_proveedores.csv,15,DIRECTORIO - sin cotizaciones formales,Consultas web 2026-11-01,no equivalen a precios de torre certificada
+23_demisters_opcionales.csv,7,OPCIONAL / PRELIMINAR,Notas del usuario / GPSA §7,No usar K de demister en torre de platos; comprobar si el accesorio es necesario.
+24_metodos_gpsa.csv,6,REFERENCIAS DE MÉTODO,"GPSA Engineering Data Book 2004 §§7,19",Figuras pendientes de lectura particular; sin coeficientes inventados.

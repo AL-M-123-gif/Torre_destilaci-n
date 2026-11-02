@@ -1,0 +1,16 @@
+﻿id,titulo,edicion,disponible,uso,estado,archivo
+IIA2019,"ASME BPVC Section II, Part A",2019,SI,Identificación de material; propiedades de suministro,consultado,ASME-II-Parte-A-2019.pdf
+IID2019,"ASME BPVC Section II, Part D (Metric)",2019,SI,"Esfuerzos admisibles, gráficas de presión externa",tablas_1A_TM1_PRD_consultadas,ASME-II-Parte-D-2019(1).pdf
+VIII2021,"ASME BPVC Section VIII, Division 1",2021,SI,"Procedimientos mecánicos, UG-27/28/33/37/45",tabla_UG45_y_metodologia_consultadas,ASME-BPVC-2021-section-viii-div-1(1).pdf
+B1652025,ASME B16.5,2025,SI,Ratings y dimensiones de bridas,consultado_parcialmente,ASME_B16.5-2025_Pipe-Flanges-and-Flanged-Fittings.pdf
+B3619,"ASME B36.19M, Stainless Steel Pipe",2004 (reafirmada 2015),SI,Geometría de tubos NPS/Schedule para cuellos de boquillas,Tabla 1 cotejada desde PDF aportado,ASME-B36.19M.pdf
+TURTON,"Turton et al., Analysis, Synthesis, and Design of Chemical Processes",2018,NO,Correlaciones de costo,solo_apunte_y_documento_incompleto;_apendice_A_no_localizado,
+KISTER,"Kister, Distillation Design",1992,NO,Criterios hidráulicos,documento_pendiente,
+APUNTETORRE,Diseño mecánico de torres de destilación (apunte docente),2026,SI,Secuencia metodológica y ejemplo didáctico,consultado,Diseño_mecánico_Torre_de_Destilación.pdf
+CEPCI2024,Chemical Engineering Economic Indicators / CEPCI,2024-09,SI,Indices anuales 2016-2023 y mensuales puntuales,datos_publicados_verificados,https://www.chemengonline.com/wp-content/uploads/2024/08/19_CHE_0924_EconInd_p45.pdf
+B3619_2022,ASME B36.19 Welded and Seamless Wrought Stainless Steel Pipe,2022 (errata 2023),NO,Edición posterior disponible; cotejo futuro,identificada_no_consultada,https://webstore.ansi.org/standards/asme/asmeb36192022
+CEPCI2026,Chemical Engineering Plant Cost Index (CEPCI),2026-08 preliminar / 2026-07 final,SOLO_NOTICIA,Referencia temporal para actualizar costos; valor numérico requiere fuente autorizada,periodo_confirmado_valor_sin_verificar,https://www.chemengonline.com/2026-cepci-updates-august-prelim-and-july-final/
+TURTON2012,Turton et al. Analysis Synthesis and Design of Chemical Processes,4a edición 2012,SI,Correlaciones de costos módulo CAPCOST,Tablas A.1 A.3 A.4 y ecuación A.2 revisadas,"Analysis, Synthesis and Design of Chemical Processes ( PDFDrive )(1).pdf"
+PROVEEDORES2026,Páginas públicas de proveedores México,Consultadas 2026-11-01,SI,"Identificación de posibles cotizaciones, no precios",Directorio de interesados; sin cotizaciones,16_proveedores.csv
+GPSA2004,"GPSA Engineering Data Book: Volumes I & II, Sections 1-26",12th FPS 2004,SI,Sección 19 hidráulica preliminar de platos; sección 7 demisters opcionales,capitulos_7_y_19_consultados,NO_INCLUIR_PDF_CON_LICENCIA_EN_GITHUB
+FLASH2026,Internos del tanque flash F-101 (apunte docente),2026,SI,Solo referencia metodologica para demister opcional; no reemplaza procedimiento de torre,consultado,NO_INCLUIR_PDF_CON_LICENCIA_EN_GITHUB

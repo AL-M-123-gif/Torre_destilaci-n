@@ -1,0 +1,4 @@
+﻿material_brida_id,designacion,forma_producto,grupo_asme_b165,familia,fuente,edicion,tabla,pagina_pdf,estado,notas
+SA182_F316L_FORJA,A182 Gr. F316L,Forja,2.3,16Cr-12Ni-2Mo,ASME B16.5,2025,1.1-1 / 2-2.3,78,dato_normativo_transcrito,Rating solo conforme a las condiciones de tabla y notas; no uso >454°C
+SA182_F304L_FORJA,A182 Gr. F304L,Forja,2.3,18Cr-8Ni,ASME B16.5,2025,1.1-1 / 2-2.3,78,dato_normativo_transcrito,Sin catálogo de esfuerzo II-D asociado; no confundir ratings con esfuerzo admisible
+SA182_F317L_FORJA,A182 Gr. F317L,Forja,2.3,18Cr-13Ni-3Mo,ASME B16.5,2025,1.1-1 / 2-2.3,78,dato_normativo_transcrito,Sin catálogo de esfuerzo II-D asociado

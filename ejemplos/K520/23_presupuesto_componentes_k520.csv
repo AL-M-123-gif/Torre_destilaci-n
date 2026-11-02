@@ -1,0 +1,21 @@
+﻿codigo,partida,cantidad,unidad,precio_unitario_MXN,importe_MXN,tipo_y_validez,proveedor,nota,url_fuente,fecha_fuente
+CAT-01,Placas para cilindro: equivalente 8 mm,12,hoja,,,SIN PRECIO EXACTO PARA 8 mm,Marinos del Golfo,No escalar el precio de placa 6.35 mm a 8 mm como si fuera producto cotizado; usar solo si aparece un precio exacto de 8 mm certificado.,https://marinosdelgolfo.com/collections/laminas-y-placas-de-aceros-inoxidables,2026-11-02
+CAT-02,Cabezales elipsoidales 2:1 conformados,2,pza,,,SIN PRECIO,fabricante bajo pedido,"Necesita blank >1.219 m/ancho o unión de segmentos, costo conformado no publicado",,
+CAT-03,Platos perforados candidatos,8,pza,,,REFERENCIA INTERNACIONAL NO EQUIVALENTE,"Jiangxi Ayrtter, Made-in-China","El precio USD del plato genérico no demuestra dimensiones, perforaciones ni materiales exigidos; no incluir en subtotal de torre.",https://www.made-in-china.com/price/prodetail_Separation-Equipment-Parts_PZbfpdyOfRUY.html,2026-11-01
+CAT-04,Soportes y fijaciones de platos,8,juego,,,SIN PRECIO,fabricante internos,Material y detalles mecánicos sin definir,,
+CAT-05,Tubo NPS2 Sch40S para 2 cuellos,1,tramo 6.10m,12360.6,12360.6,CATÁLOGO / requiere MTR,DepotMX,"Compra por tramo completo, aunque los dos cuellos usen menos de 6.10m",https://depotmx.com/categoria-producto/tuberias/inoxidable/tuberia-inoxidable-con-costura/,2026-11-01
+CAT-06,Tubo NPS12 Sch40S para cuello N1,1,cuello,,,SIN PRECIO,Ferguson cotización,"Precio web Ferguson $1 es placeholder, NO usar",,
+CAT-07,Brida WN RF NPS12 Class150 316L,1,pza,,,"USD REFERENCIA HISTÓRICA, FX/IMPORTACIÓN PENDIENTE",PipingNow,"No convertir cotización en USD a un precio MXN definitivo sin tipo de cambio de fecha, flete, aranceles, disponibilidad y proveedor confirmado.",https://pipingnow.com/products/60wn6l120,2026-11-01
+CAT-08,Brida WN RF NPS2 Class150 316,2,pza,1099,2198,CATÁLOGO / requiere MTR,DepotMX,2 piezas en torre; no incluye contrabridas,https://depotmx.com/categoria-producto/conexiones/acero-inoxidable/bridas-inoxidables/,2026-11-01
+CAT-09,Junta NPS12 + 2 juntas NPS2,3,junta,,,SIN PRECIO,ISI-CAFU / proveedor industrial,Verificar material adecuado y rating,,
+CAT-10,Espárragos para las tres uniones,20,pza,,,SIN PRECIO,A193 B8M según selección,12+4+4; longitud y diámetro de cada uno pendientes,,
+CAT-11,Tuercas para espárragos,40,pza,,,SIN PRECIO,A194 8M según selección,"2 por espárrago, verificar grado y recubrimiento",,
+CAT-12,Falda de soporte,1,pieza,,,SIN PRECIO,Fabricante recipientes,Diám 1.25 m y t 8.5 mm candidatos; altura y material sin cerrar,,
+CAT-13,"Anillo base, cartelas y anclas",1,conjunto,,,SIN PRECIO,Fabricante recipientes,Sin dimensiones definitivas,,
+CAT-14,Escalera y plataformas,,juegos,,,SIN CANTIDAD,fabricante estructuras,Accesos sin geometría final,,
+CAT-15,Bocas de hombre y sus bridas,,pza,,,SIN CANTIDAD,fabricante recipientes,No dimensionado; necesario resolver accesibilidad,,
+CAT-16,Boquillas auxiliares/instrumentación,,pza,,,SIN CANTIDAD,instrumentación,"Venteos, drenes, PSV, instrumentos según P&ID",,
+CAT-17,"Corte, rolado, soldadura y montaje",1,servicio,,,SIN PRECIO,fabricante recipiente,Precio no publicado por equipo a medida,,
+CAT-18,"Inspección visual, NDT y documentación",1,servicio,,,SIN PRECIO,empresa END,Plan de inspección pendiente,,
+CAT-19,Prueba de presión/estanqueidad,1,servicio,,,SIN PRECIO,fabricante recipiente,Selección de prueba pendiente,,
+CAT-20,Pasivado / limpieza / transporte,1,servicio,,,SIN PRECIO,fabricante recipiente,No confundir costo de gel con costo servicio,,

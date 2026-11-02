@@ -1,0 +1,144 @@
+{
+  "version": "github_prueba_v3_precios_2026-11-02",
+  "fecha": "2026-11-02",
+  "numero_tablas": 26,
+  "carpeta": "bibliotecas",
+  "catalogos": {
+    "00_fuentes_documentales.csv": {
+      "filas": 15,
+      "sha256": "e96e215546c3631352e15e1df24edc80bdd9668dd04156b2d19af3b2ced2f80e",
+      "columnas": 7
+    },
+    "01_materiales.csv": {
+      "filas": 8,
+      "sha256": "8b797927893193fa8347ba6ca88d2ba64450db8266f58212b176d8a89f1c2071",
+      "columnas": 12
+    },
+    "02_esfuerzos_admisibles.csv": {
+      "filas": 262,
+      "sha256": "95866ec2e130cc2880c3f63bac5154b83078d84409f8464226ed7130a268af97",
+      "columnas": 18
+    },
+    "03_propiedades_fisicas.csv": {
+      "filas": 88,
+      "sha256": "e9547601e7cbc70cecda44c7d9602f4453033dd1911afd95b8aa9532a4992740",
+      "columnas": 11
+    },
+    "04_tuberias_b36_19m.csv": {
+      "filas": 93,
+      "sha256": "df502dbce67b52daa06b477546c12930e7294ad22a5662440a60c0523818b70c",
+      "columnas": 11
+    },
+    "05_materiales_bridas.csv": {
+      "filas": 3,
+      "sha256": "17f65c5524aaf8e573cd598084036c7a3156a089f1a7794464d2dabf64ae03e9",
+      "columnas": 11
+    },
+    "06_ratings_bridas.csv": {
+      "filas": 91,
+      "sha256": "dc5e400ddcaf9a8d37ce2db4502933aef3b55ee54465643d3e260b6056c4fffc",
+      "columnas": 10
+    },
+    "07_dimensiones_bridas.csv": {
+      "filas": 21,
+      "sha256": "3bbda43de12b9dc3cd06bb433034b12c3af57d67890bedb83d1b981bee99c90c",
+      "columnas": 19
+    },
+    "08_ug45_minimos.csv": {
+      "filas": 18,
+      "sha256": "ec83f9f1d8e3d94682c07d07ba59aa06594a51c57182c46c1fbfd1a4e87d30aa",
+      "columnas": 9
+    },
+    "09_criterios_hidraulicos.csv": {
+      "filas": 14,
+      "sha256": "b8d198dd687aaec61c34132865896b40a2f90c536e3eb1b5ddac1b3e7a9d4e25",
+      "columnas": 11
+    },
+    "10_presion_externa.csv": {
+      "filas": 8,
+      "sha256": "066e2d705a7d8ee3bc08d0cd024c9a78743920930c48b527c490feec8636610f",
+      "columnas": 13
+    },
+    "11_correlaciones_turton.csv": {
+      "filas": 3,
+      "sha256": "834aa4a648d7b9705c9437b604cf07aff670c1d1758f2294a28d0a89e68d8ca2",
+      "columnas": 21
+    },
+    "12_cotizaciones.csv": {
+      "filas": 0,
+      "sha256": "d86706ceeead7bf7de99f0b25de53f467b5cb2255ce74a4a84fa7973a0b7cf89",
+      "columnas": 17
+    },
+    "13_indices_cepci.csv": {
+      "filas": 13,
+      "sha256": "110ae1a2c69967abcc234fb549d44c6d08c143dc09bb7d07cffc1473deb2f3dc",
+      "columnas": 8
+    },
+    "14_entradas_diseno.csv": {
+      "filas": 0,
+      "sha256": "b51e64936164cd3ece0772360630178f81f6589142735c9131d3966fc27ab7cb",
+      "columnas": 10
+    },
+    "15_formulas_diseno.csv": {
+      "filas": 28,
+      "sha256": "75f8841479e244d114961a4787caf72d5d4dff48ac9790d5855c7463e25754f7",
+      "columnas": 10
+    },
+    "16_proveedores.csv": {
+      "filas": 12,
+      "sha256": "9a8d49cfdc676acfc34dc7e09958baaf778ca8286dac7795b9be5fb5e2ae4db2",
+      "columnas": 14
+    },
+    "17_factores_turton.csv": {
+      "filas": 7,
+      "sha256": "1dfde943f2379b716f34b9ffc7381d8902337901824d2690fe1c3afcfc1157a2",
+      "columnas": 11
+    },
+    "18_precios_publicados.csv": {
+      "filas": 39,
+      "sha256": "0174fbcc3bc2603f93fed1f3b745c7a46ff493063078c401cdb0a103e46129f3",
+      "columnas": 27
+    },
+    "19_parametros_comerciales.csv": {
+      "filas": 48,
+      "sha256": "2ae967b098b65b53b57158edd12f7bd4d3e133fd2c12073bc0599306c03f2aa5",
+      "columnas": 8
+    },
+    "20_precios_internacionales_y_referencias.csv": {
+      "filas": 7,
+      "sha256": "f12c834e7b874c9193b7a4e3d5806b0bed726fb694be4b9ba3d13e179d8903ae",
+      "columnas": 14
+    },
+    "21_matriz_partidas_y_cotizacion.csv": {
+      "filas": 22,
+      "sha256": "ce34c1a93568b449ea332ca4f67578002ed44abb2a22ee85fc202d6b5445ee2d",
+      "columnas": 9
+    },
+    "22_fuentes_y_solicitudes_proveedores.csv": {
+      "filas": 15,
+      "sha256": "b1efe7c299204243796b845ed9ccfcad567ca3db4f9976acd4f4512c44e9bab4",
+      "columnas": 6
+    },
+    "23_demisters_opcionales.csv": {
+      "filas": 7,
+      "sha256": "6d93660bfdaaffbc1f8e1fb70a11d85db4f60b64080dccfbaec4a7340877571e",
+      "columnas": 15
+    },
+    "24_metodos_gpsa.csv": {
+      "filas": 6,
+      "sha256": "55cd0ab12ca6aa4c7b3ef73f0ca25066edbf36aaf97d223e2909a2bb2125a43d",
+      "columnas": 11
+    },
+    "25_cotizaciones_referenciales.csv": {
+      "filas": 14,
+      "sha256": "121cc1a00d458d6f93f3a65ac8bd6572b75350b0cb92c2d15ee3bb30ad4b196e",
+      "columnas": 20
+    },
+    "ESTADO_COBERTURA.csv": {
+      "filas": 24,
+      "sha256": "a63c96c0403b7858b743238b2c7a3e5a47869f8803bfe9580dbf342752e65962",
+      "columnas": 5
+    }
+  },
+  "nota": "Los precios son referencias web, no cotizaciones formales. Entradas ASME sin aprobar automáticamente."
+}

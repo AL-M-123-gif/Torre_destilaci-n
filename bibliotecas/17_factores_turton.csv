@@ -1,0 +1,8 @@
+﻿identificador,componente,concepto,valor,unidad,condicion,referencia,fuente,edicion,estado,nota
+B1_vasija_vertical,recipiente_vertical,B1,2.25,adimensional,Bare module recipiente vertical,Apéndice A Table A.4 p.1009,Turton,4a (2012),verificado,Aplicar CBM=CP0*(B1+B2*FM*FP)
+B2_vasija_vertical,recipiente_vertical,B2,1.82,adimensional,Bare module recipiente vertical,Apéndice A Table A.4 p.1009,Turton,4a (2012),verificado,FM se obtiene de Figure A.18 según material y equipo
+base_CEPCI,todos,CEPCI_base,397,indice,Costos históricos de Turton normalizados a 2001,Apéndice A A.1 p.987,Turton,4a (2012),verificado,"Actualizar con CEPCI periodo objetivo, no precargar CEPCI actual"
+FP_vacio,recipiente_vertical,factor_presion_vacio,1.25,adimensional,"P menor a -0.5 barg, condiciones de correlación",Apéndice A A.2.1 Eq A.2 p.1005,Turton,4a (2012),verificado,"Factor económico, NO sustituye verificación mecánica UG-28 o UG-33"
+factor_material_SS,recipiente_vertical,FM_SS,,adimensional,Material inoxidable y equipo tipo torre,"Apéndice A Table A.3 identificación 20, Figure A.18 p.1008-1009",Turton,4a (2012),lectura_grafica_pendiente,No asignar el valor didáctico 3.1 automáticamente sin validar figura y selección específica
+FBM_tray,platos,FBM_plato,,adimensional,Depende de tipo de plato y material,Apéndice A Table A.6 Figure A.19 pp.1011-1013,Turton,4a (2012),lectura_grafica_pendiente,El 1.8 del apunte es hipótesis didáctica; selección obligatoria
+Fq_tray,platos,Fq_plato,,adimensional,Según cantidad de platos aplicable,"Apunte torre §1.68, confirmar alcance de corrección",Apunte docente,2026,seleccion_pendiente,No precargar 1.00 sin justificar número y alcance

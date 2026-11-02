@@ -1,0 +1,5 @@
+﻿nombre,diametro_m,altura_m,platos,volumen_m3,turton_normal_MXN,turton_vacio_MXN,advertencia
+Original K-520 (base),1.2,10.1,8,11.422830888452488,4682264.388347877,5407077.23273673,N_p físico no validado; D_adoptado de 1.2 m puede ser menor que el requerido hidráulicamente
+Ejemplo T-101 / valores mezclados,1.2,20,30,22.61946710584651,8926859.330125837,10102216.529278524,"NO corresponde al diseño inicial K-520, solo sensibilidad"
+DWSIM diámetro / H inicial,1.7091,10.1,8,23.171076097182144,7660040.613021428,8856558.067313807,Diámetro estimado por DWSIM; requiere rediseño mecánico completo
+DWSIM diámetro / H=10.45,1.7091,10.45,8,23.974034179757762,7831722.043859246,9058923.311911983,H de corrida previa; no ingeniería aprobada

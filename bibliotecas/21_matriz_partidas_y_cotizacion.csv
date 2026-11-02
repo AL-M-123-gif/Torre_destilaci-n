@@ -1,0 +1,23 @@
+﻿id_partida,seccion_pdf,concepto,unidad_cotizacion,estado_precio,proveedor_sugerido,precio_de_costo_verificado_para_especificacion_final,requisitos_para_cotizar,aclaracion
+01,1.62,Placa y cuerpo cilíndrico,kg o placa,referencia_web_parcial,Marinos del Golfo / EIGSA,NO,SA-240 316L MTR; diametro altura espesor nominal; desperdicio,"6.35mm disponible, no sustituye placa candidata 8mm"
+02,1.62,Cabezales elipsoidales 2:1,pieza conformada,cotizacion_necesaria,FITSA / EIGSA,NO,"D y t; material SA-240 316L; ceja, conformado y reduccion espesor",precio de placa sola no equivale a cabezal conformado
+03,1.62,Platos perforados y soportes internos,pieza por diametro,referencia_USD_no_comparable,Sulzer / CA TEC / Jiangxi Ayrtter,NO,"número físico, diámetro, disposición, perforación, area activa, material y cargas",No es lámina perforada genérica
+04,1.62,Cuellos de boquilla,tramo industrial NPS Sch,precio_web_parcial,DepotMX / CIPSA,NO,SA-312 316L; NPS Sch 10S/40S; largo real; MTR,"tramo comercial de 6.10m, no costo de cuello cortado y soldado"
+05,1.62,Falda estructural y rigidizadores,kg fabricado,cotizacion_necesaria,EIGSA / Frama,NO,"material seleccionado, diámetro altura espesor, base, anclajes y cargas",diseñar falda antes de precio
+06,1.62,Plataformas y barandales,m2 y metro lineal,referencia_obra_no_equivalente,Metales Procesos y Distribución / MetalArte,NO,"área, altura, carga viva, material, acceso y fabricación",no usar barandal arquitectónico como industrial
+07,1.62,Brida principal WN RF NPS 12,pieza,precio_USD_no_comparable,PipingNow / DepotMX,NO,SA-182 F316L; Class150; NPS12 Sch40S; MTR; importación,"US$1828.89 referencia PipingNow, sin transporte impuestos"
+08,1.62,Otras bridas WN RF,pieza,precio_web_parcial,DepotMX,NO,NPS Class tipo cara grado y bore Sch de cada boquilla,"hay precios NPS 1/2 a 8 Class 150, sin certificación validada"
+09,1.62,Componentes de acceso / boca de hombre,juego,cotizacion_necesaria,EIGSA / Frama,NO,abertura de acceso diámetro refuerzo cubierta tapa junta bisagras,"según UG-36/UG-37, sin presupuesto público idéntico"
+10,1.62,Empaques y juntas de bridas,pieza,referencia_web_incompatible_material,ISI-CAFU,NO,NPS Class RF anillos relleno espiral/material y T/P,"304 publicado, cotejar 316 o selección aceptada"
+11,1.62,Espárragos y tuercas de bridas,juego,cotizacion_necesaria,GARO / Conectuva,NO,"A193 B8M/A194 8M si aplica, diámetro longitud cantidad y acabado",no usar precio B7/A194 2H como inoxidable
+12,1.63,Corte de placas y rolado,kg o metro,cotizacion_necesaria,EIGSA / MPD Maquila,NO,"t espesor material y desarrollo de cilindros, tolerancias",maquila puede estar incluida en costo equipo terminado
+13,1.63,Soldadura fabricación general,junta / h,cotizacion_necesaria,EIGSA / Frama,NO,"WPS/PQR, proceso GTAW/SMAW, metros de soldadura NDE",no extrapolar tarifa hora de soldadura sin volumen
+14,1.63,Montaje de internos,plato o h,cotizacion_necesaria,EIGSA / proveedor de internos,NO,"cantidad, tipos, plataformas de acceso, soportes y alineación",proveedor de platos puede incluir montaje
+15,1.63,Maquinados,pieza o h,cotizacion_necesaria,MPD Maquila / EIGSA,NO,dimensiones de bridas anillo base y tolerancias,maquinado de conjuntos no disponible precio fijo
+16,1.63,Inspecciones END RT/UT/PT,junta o visita,cotizacion_necesaria,SISEN / SPIISA / TÜV Rheinland,NO,"metros soldadura, espesor, método y porcentaje y reporte ASME V",precio por visita depende del alcance
+17,1.63,Limpieza y pasivado,m2 o servicio,consumible_web_no_servicio,MADOE / PAIMEX,NO,"área, soldaduras, tratamiento seleccionado y certificación",gel 443 MXN/kg no es tarifa de pasivado de torre
+18,1.63,Prueba hidrostática y secado,servicio,cotizacion_necesaria,GC Tratamiento / SISEN,NO,"volumen, presión de prueba según norma, agua, drenaje, secado, certificado",servicio cotización por equipo
+19,1.63,Documentación técnica y QA/QC,paquete,cotizacion_necesaria,Fabricante equipo / inspección tercera parte,NO,"planos, MTR, WPS, mapa soldaduras, certificados y dossier",definir si incluye estampado ASME U
+20,1.62,Anclajes anillo base y tornillos,juego,cotizacion_necesaria,GARO / fabricante torre,NO,"material, diámetro, longitud, placa base y cargas",diseño de cimentación según sitio
+21,1.62,Escaleras y acceso exterior,conjunto,precio_referencia_obra_no_equivalente,MetalArte / MPD,NO,"altura real torre, plataformas, carga, reglamentos, materiales",CYPE 10m aluminio para techumbre no equivalente
+22,1.63,Transporte montaje final y grúa,servicio,cotizacion_necesaria,Fabricante torre / transportista,NO,"longitud peso, ruta, accesos, izaje y destino",habitualmente no incluido en precio de materiales

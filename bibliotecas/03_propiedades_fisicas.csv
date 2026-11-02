@@ -1,0 +1,89 @@
+﻿material_id,propiedad,temperatura_C,valor,unidad,fuente,edicion,tabla_figura,pagina,estado,notas
+SA240_316L_PLACA,densidad,,8030,kg/m3,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA240_316L_PLACA,poisson,,0.31,adimensional,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA240_316L_PLACA,modulo_elasticidad,25,195000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316L_PLACA,modulo_elasticidad,100,189000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316L_PLACA,modulo_elasticidad,150,186000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316L_PLACA,modulo_elasticidad,200,183000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316L_PLACA,modulo_elasticidad,250,179000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316L_PLACA,modulo_elasticidad,300,176000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316L_PLACA,modulo_elasticidad,350,172000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316L_PLACA,modulo_elasticidad,400,169000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316L_PLACA,modulo_elasticidad,450,165000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F316L_FORJA,densidad,,8030,kg/m3,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA182_F316L_FORJA,poisson,,0.31,adimensional,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA182_F316L_FORJA,modulo_elasticidad,25,195000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F316L_FORJA,modulo_elasticidad,100,189000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F316L_FORJA,modulo_elasticidad,150,186000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F316L_FORJA,modulo_elasticidad,200,183000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F316L_FORJA,modulo_elasticidad,250,179000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F316L_FORJA,modulo_elasticidad,300,176000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F316L_FORJA,modulo_elasticidad,350,172000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F316L_FORJA,modulo_elasticidad,400,169000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F316L_FORJA,modulo_elasticidad,450,165000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP316L_TUBERIA,densidad,,8030,kg/m3,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA312_TP316L_TUBERIA,poisson,,0.31,adimensional,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA312_TP316L_TUBERIA,modulo_elasticidad,25,195000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP316L_TUBERIA,modulo_elasticidad,100,189000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP316L_TUBERIA,modulo_elasticidad,150,186000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP316L_TUBERIA,modulo_elasticidad,200,183000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP316L_TUBERIA,modulo_elasticidad,250,179000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP316L_TUBERIA,modulo_elasticidad,300,176000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP316L_TUBERIA,modulo_elasticidad,350,172000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP316L_TUBERIA,modulo_elasticidad,400,169000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP316L_TUBERIA,modulo_elasticidad,450,165000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304L_PLACA,densidad,,8030,kg/m3,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA240_304L_PLACA,poisson,,0.31,adimensional,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA240_304L_PLACA,modulo_elasticidad,25,195000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304L_PLACA,modulo_elasticidad,100,189000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304L_PLACA,modulo_elasticidad,150,186000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304L_PLACA,modulo_elasticidad,200,183000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304L_PLACA,modulo_elasticidad,250,179000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304L_PLACA,modulo_elasticidad,300,176000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304L_PLACA,modulo_elasticidad,350,172000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304L_PLACA,modulo_elasticidad,400,169000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304L_PLACA,modulo_elasticidad,450,165000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316_PLACA,densidad,,8030,kg/m3,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA240_316_PLACA,poisson,,0.31,adimensional,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA240_316_PLACA,modulo_elasticidad,25,195000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316_PLACA,modulo_elasticidad,100,189000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316_PLACA,modulo_elasticidad,150,186000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316_PLACA,modulo_elasticidad,200,183000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316_PLACA,modulo_elasticidad,250,179000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316_PLACA,modulo_elasticidad,300,176000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316_PLACA,modulo_elasticidad,350,172000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316_PLACA,modulo_elasticidad,400,169000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_316_PLACA,modulo_elasticidad,450,165000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304_PLACA,densidad,,8030,kg/m3,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA240_304_PLACA,poisson,,0.31,adimensional,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA240_304_PLACA,modulo_elasticidad,25,195000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304_PLACA,modulo_elasticidad,100,189000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304_PLACA,modulo_elasticidad,150,186000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304_PLACA,modulo_elasticidad,200,183000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304_PLACA,modulo_elasticidad,250,179000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304_PLACA,modulo_elasticidad,300,176000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304_PLACA,modulo_elasticidad,350,172000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304_PLACA,modulo_elasticidad,400,169000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA240_304_PLACA,modulo_elasticidad,450,165000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F304L_FORJA,densidad,,8030,kg/m3,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA182_F304L_FORJA,poisson,,0.31,adimensional,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA182_F304L_FORJA,modulo_elasticidad,25,195000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F304L_FORJA,modulo_elasticidad,100,189000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F304L_FORJA,modulo_elasticidad,150,186000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F304L_FORJA,modulo_elasticidad,200,183000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F304L_FORJA,modulo_elasticidad,250,179000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F304L_FORJA,modulo_elasticidad,300,176000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F304L_FORJA,modulo_elasticidad,350,172000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F304L_FORJA,modulo_elasticidad,400,169000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA182_F304L_FORJA,modulo_elasticidad,450,165000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP304L_TUBERIA,densidad,,8030,kg/m3,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA312_TP304L_TUBERIA,poisson,,0.31,adimensional,ASME BPVC II-D (Metric),2019,PRD,965,dato_familia_300,Valor para grupo alto aleado serie 300; no valor certificado de una colada individual
+SA312_TP304L_TUBERIA,modulo_elasticidad,25,195000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP304L_TUBERIA,modulo_elasticidad,100,189000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP304L_TUBERIA,modulo_elasticidad,150,186000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP304L_TUBERIA,modulo_elasticidad,200,183000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP304L_TUBERIA,modulo_elasticidad,250,179000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP304L_TUBERIA,modulo_elasticidad,300,176000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP304L_TUBERIA,modulo_elasticidad,350,172000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP304L_TUBERIA,modulo_elasticidad,400,169000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960
+SA312_TP304L_TUBERIA,modulo_elasticidad,450,165000,MPa,ASME BPVC II-D (Metric),2019,TM-1 grupo G,959,dato_grupo_G,16Cr-12Ni-2Mo y 18Cr-8Ni incluidos en Grupo G segun notas pp.959-960

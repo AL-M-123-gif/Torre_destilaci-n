@@ -1,0 +1,21 @@
+﻿partida,cantidad,unidad,fundamento_y_limitaciones
+Área lateral cuerpo,38.07610296150829,m²,π × diámetro × altura entre tangentes
+Espesor cuerpo candidato,8,mm,No aprobado todavía por vacío
+Masa teórica cuerpo,2453.1163934667743,kg,"Cálculo de pared cilíndrica, sin boquillas ni rigidizadores"
+Área disponible por placa comercial,3.7155120000000004,m²,"1.219 × 3.048 m, área plana por hoja"
+Mínimo geométrico de hojas,11,hojas,No incluye optimización de cortes ni desperdicio; derivado de área
+Hojas preliminares adoptadas,12,hojas,Corte preliminar 9 cursos y retales compartidos; validar taller
+Masa adquirida equivalente si fueran de 8 mm,2853.5132160000003,kg,"Comparación de masa para 12 láminas de 8 mm, NO producto en catálogo"
+Área aproximada de 1 cabezal elipsoidal 2:1,1.5609388866021092,m²,Medio elipsoide oblatado a=D/2 y c=D/4; excluye ceja
+Masa de 2 cabezales sin ceja,199.80017748506998,kg,"Solo masa mínima idealizada: conformado, ceja y reducción pendientes"
+Superficie de 1 plato,1.1309733552923256,m²,Área transversal geométrica; internos reales adicionales
+Superficie total de platos,9.047786842338605,m²,No equivale a superficie de compra fabricada
+Número de platos físicos candidato,8,piezas,8 no validado a partir de etapas de equilibrio
+Boquillas de proceso identificadas,3,piezas,"N1 vapor, N2 alimentación, N3 fondos; mínimo documentado"
+Bridas WN sobre torre,3,piezas,1 NPS12 y 2 NPS2; no incluye contrabridas de tuberías externas
+Juntas correspondientes a 3 conexiones,3,piezas,Solo si se construyen las uniones bridadas; no seleccionadas
+Espárragos por 3 uniones,20,piezas,"12 agujeros NPS12 y 4 cada NPS2, Class150; anclaje pendiente"
+Tuercas para espárragos,40,piezas,2 por espárrago; sin arandelas
+Falda soporte,1,pieza,Material y altura sin finalizar
+"Plataformas, escalera y accesos",,pendiente,"El apunte los contempla, pero el diseño no determina cantidades"
+Boquillas de servicio/manholes,,pendiente,No aparecen dimensionadas ni cuantificadas en el código original

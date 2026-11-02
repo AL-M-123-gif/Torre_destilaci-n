@@ -1,0 +1,16 @@
+﻿nombre,partidas,fuente,tipo_precio,datos_a_enviar,observacion
+EIGSA,cuerpo cabezales falda fabricación completa,https://www.eigsa.com.mx/index.php/2-uncategorised/25-recipientes-verticales,cotizacion,Torre diámetro altura material presión espesor internos; documentación,"Declara fabricación de torres altas, no precio web"
+Frama,cuerpo soldadura inspección torre,https://ciframa.com.mx/index.php/servicios/,cotizacion,Hoja de datos ASME y planos generales,Declara torres ASME; verificar certificaciones vigentes
+FITSA,cabezales especiales 2:1,https://www.fitsa.mx/toriesferica,cotizacion,D/espesor/longitud recta/material/SA-240,Confirma formas semielípticas y materiales SA-240-316L
+DepotMX,bridas WN y tubería,https://depotmx.com/categoria-producto/tuberias/inoxidable/,precio_web_y_cotizacion,NPS Schedule material norma certificado y cantidad,Precios de catálogo sujetos a cambio
+Marinos del Golfo,placas 316L,https://marinosdelgolfo.com/collections/laminas-y-placas-de-aceros-inoxidables,precio_web_y_cotizacion,Placa 316L espesor 8mm y plan de cortes SA-240 MTR,"Anuncios 4.76 y 6.35mm, no 8mm"
+Sulzer via CA TEC,platos de destilación,https://www.catec-la.com/,cotizacion,"Perfiles hidráulicos DWSIM, N físicos, D, material",Diseño de internos por proveedor especializado
+PipingNow,brida WN principal 12,https://pipingnow.com/products/60wn6l120,precio_web_USD,NPS12 Class150 WN RF Sch40S F316L; costos México,USA: envío/importación no incluidos
+GARO,espárragos tuercas anclajes,https://suministrosgaro.com/,cotizacion,A193 B8M/A194 8M si aplica; cantidad diámetro longitud,Maneja tornillería para bridas
+ISI-CAFU,juntas espirometalicas,https://www.isi-cafu.com.mx/JUNTAS-ESPIROMETALLICAS_c_58.html,precio_web_y_cotizacion,NPS Class 150 espiral/anillos 316L y relleno,"Precio público de espiral 304, no equivalente 316L"
+SISEN,END y pruebas,https://sisen.com.mx/servicios/,cotizacion,"Métodos inspección, porcentaje, WPS, lugares",No tarifas publicadas
+SPIISA,END PT UT RT,https://spiisa.com/servicios/ensayos-no-destructivos-end/,cotizacion,"Tipos y número de juntas, accesos",No tarifas publicadas
+GC Tratamiento,pruebas recipientes presión,https://gctratamiento.mx/tanques-a-presion/,cotizacion,P de prueba volumen diámetro ubicación,No se sabe precio exacto torre
+MPD Maquila,corte rolado maquila,https://barandalesmpd.com.mx/Maquila/,cotizacion,DWG material espesor cortes rolado,Presupuesto según plano
+MetalArte,escalera plataforma barandales,https://metalarte.com.mx/escaleras/,cotizacion,"D y H torre, cargas, material, longitud",Fabricación a medida
+PAIMEX,servicio pasivado,https://serviciospaimex.com/pasivado/,cotizacion,"Área, aleación, superficie y método",Verificar que acepte dimensiones torre
